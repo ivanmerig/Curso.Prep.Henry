@@ -1,0 +1,23 @@
+VARIABLE
+
+Es un dato al que se le asigna un valor y se guarda en un espacio de la memoria, al que vamos a poder acceder 
+(o traerlo) cuando lo necesitamos.
+
+
+STRING
+
+Es un tipo de dato que es texto (simple y llano), va marcado con '' o con "" al hacerlo el sistema entendera
+que es texto, sin importar si ponemos numeros dentro de ello.
+
+FUNCIONES
+
+Es un conjunto de instrucciones que realizan una tarea (como multiplicar o dividir) o mas complejas como RETURN
+que realiza una serie de instrucciones y devuelve el resultado de esa acción.
+
+IF
+
+Es un condcional que compara de tal forma que si se cumple dara un resultado o acción que indiquemos.
+
+VALORES BOOLEANOS
+
+Son aquellos que podemos comparar y resultado de ello, solo entregara un resultado falso o verdadero.
